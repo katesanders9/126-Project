@@ -8,6 +8,9 @@ Jenna Kiyasu, Kevin Li, Aaron Kuo, Kate Sanders
 - [X] 2D Model
 - [X] Multiple roads
 - [X] Traffic lights
+- [X] Logging cell speed / average travel time
+- [ ] Average number of cars on a road
+- [ ] Stop and go traffic condition check
 - [ ] Variation among cars
 - [ ] Accidents
 - [ ] Multiple lanes
