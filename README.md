@@ -13,7 +13,7 @@ Jenna Kiyasu, Kevin Li, Aaron Kuo, Kate Sanders
 - [ ] Stop and go traffic condition check (Jenna)
 - [ ] Variation among cars (Kevin)
 - [ ] Multiple lanes (Aaron)
-- [ ] Turns/U-turns (Kate)
+- [X] Turns (Kate)
 - [ ] Cars that don't follow the Poisson model (Kevin)
 - [ ] Better visualization (Jenna)
 - [ ] Infrastructure for multiple experiment runs (Kate)
