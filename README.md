@@ -19,7 +19,7 @@ Jenna Kiyasu, Kevin Li, Aaron Kuo, Kate Sanders
 - [ ] Infrastructure for multiple experiment runs (Kate)
 
 ### Todo
-- [ ] Clean up code (Kate)
+- [X] Clean up code (Kate)
 - [ ] Literature search (Jenna)
 - [ ] Add remaining features (All)
 - [ ] Run experiments (Kate)
