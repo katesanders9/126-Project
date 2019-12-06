@@ -11,10 +11,10 @@ Jenna Kiyasu, Kevin Li, Aaron Kuo, Kate Sanders
 - [X] Logging cell speed / average travel time
 - [ ] Average number of cars on a road (Aaron)
 - [ ] Stop and go traffic condition check (Jenna)
-- [ ] Variation among cars (Kevin)
+- [X] Variation among cars (Kevin)
 - [ ] Multiple lanes (Aaron)
 - [X] Turns (Kate)
-- [ ] Cars that don't follow the Poisson model (Kevin)
+- [X] Cars that don't follow the Poisson model (Kevin)
 - [ ] Better visualization (Jenna)
 - [ ] Infrastructure for multiple experiment runs (Kate)
 
